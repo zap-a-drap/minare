@@ -28,7 +28,7 @@
 }
  .modal-container {
 	 display: flex;
-	 max-width: 720px;
+	 max-width: 820px;
 	 width: 100%;
 	 border-radius: 10px;
 	 overflow: hidden;
@@ -40,13 +40,13 @@
 	 transform: translateY(100px) scale(0.4);
 }
  .modal-title {
-	 font-size: 26px;
+	 font-size: 16px;
 	 margin: 0;
 	 font-weight: 400;
 	 color: #55311c;
 }
  .modal-desc {
-	 margin: 6px 0 30px 0;
+	 margin: 6px 0 10px 0;
 }
  .modal-left {
 	 padding: 60px 30px 20px;
@@ -153,14 +153,14 @@
 	 padding: 10px 10px 8px;
 	 border: 1px solid #ddd;
 	 border-radius: 4px;
-	 margin-bottom: 20px;
+	 margin-bottom: 5px;
 	 transition: 0.3s;
 }
  .input-block input {
 	 outline: 0;
 	 border: 0;
 	 padding: 4px 0 0;
-	 font-size: 14px;
+	 font-size: 8px;
 	 font-family: "Nunito", sans-serif;
 }
  .input-block input::placeholder {
